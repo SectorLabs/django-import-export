@@ -41,6 +41,15 @@ Features:
 * Free software: BSD license
 * PyPI: https://pypi.org/project/django-import-export/
 
+Fork
+----
+
+We originally forked this to get access to this fix: https://github.com/django-import-export/django-import-export/issues/1064
+
+This fix was subsequently released in v2.0.2: https://django-import-export.readthedocs.io/en/latest/changelog.html#id3
+
+We are in the process of phasing out this fork.
+
 Requirements
 ------------
 
